@@ -1,0 +1,37 @@
+.main-heading {
+  width: auto;
+  height: 80px;
+
+}
+.d-litt {
+  color: rgb(235, 52, 52);
+  position: absolute;
+  left: 180px;
+}
+.flex {
+  display: flex;
+  align-items: center;
+  /* justify-content: center; */
+}
+ul {
+  list-style: none;
+}
+.company-logo1 img {
+  width: 150px;
+  height: 40px;
+}
+.main-nav {
+  margin-top: 15px;
+  justify-content: space-between;
+}
+.nav-links {
+  flex-basis: 730px;
+}
+.nav-links ul {
+  justify-content: end;
+  gap: 27px;
+}
+.searchbar {
+  width: 30px;
+  height: 30px;
+}
